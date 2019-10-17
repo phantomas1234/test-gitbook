@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [test](test.md)
+* [😃 test](test.md)
 * [cameo.bio](http://cameo.bio)
 
 ## Wet lab
